@@ -13,7 +13,7 @@ import planDevelop from "../assets/plan-develop.svg"
 import planLaunch from "../assets/plan-launch.svg"
 import planVision from "../assets/plan-vision.svg"
 import AI from "../assets/AI.webp";
-import CryptoAsset from "../assets/cryptoasset.webp";
+import CryptoAsset from "../assets/CryptoAsset.webp";
 import Tokens from "../assets/Tokens.webp";
 
 
